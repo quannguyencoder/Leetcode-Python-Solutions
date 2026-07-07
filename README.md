@@ -11,6 +11,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0239-sliding-window-maximum](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0307-range-sum-query-mutable](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0307-range-sum-query-mutable/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -44,4 +45,20 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0307-range-sum-query-mutable](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0307-range-sum-query-mutable/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 <!---LeetCode Topics End-->
