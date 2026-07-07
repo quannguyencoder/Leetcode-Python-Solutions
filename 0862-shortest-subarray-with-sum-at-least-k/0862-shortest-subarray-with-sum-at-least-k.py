@@ -1,6 +1,6 @@
 class Solution:
     def shortestSubarray(self, nums: List[int], k: int) -> int:
-        res = 10 ** 9
+        res = 10 ** 5 + 1
         pref_sum = [0] + list(accumulate(nums))
         queue = deque()
         for i in range(len(nums) + 1):
@@ -13,4 +13,4 @@ class Solution:
                 queue.pop()
             queue.append(i)
 
-        return -1 if res == 10 ** 9 else res
+        return -1 if res == 10 ** 5 + 1 else res
