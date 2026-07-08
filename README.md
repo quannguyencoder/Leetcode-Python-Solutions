@@ -30,6 +30,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0600-non-negative-integers-without-consecutive-ones](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0600-non-negative-integers-without-consecutive-ones/) | Hard |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
