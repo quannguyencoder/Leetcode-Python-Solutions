@@ -1,5 +1,7 @@
+import gc
 class Solution:
     def pathExistenceQueries(self, n: int, nums: List[int], maxDiff: int, queries: List[List[int]]) -> List[bool]:
+        gc.disable()
         parent = [i for i in range(n)]
         size = [1] * n
         def union(u, v):
