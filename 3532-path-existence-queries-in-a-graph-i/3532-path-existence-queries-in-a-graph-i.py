@@ -1,4 +1,7 @@
 import gc
+import sys
+sys.stdin = open(0, 'r')
+sys.stdout = open(1, 'w')
 class Solution:
     def pathExistenceQueries(self, n: int, nums: List[int], maxDiff: int, queries: List[List[int]]) -> List[bool]:
         gc.disable()
