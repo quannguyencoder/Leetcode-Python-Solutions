@@ -129,6 +129,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0204-count-primes/) | Medium |
+| [1291-sequential-digits](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1291-sequential-digits/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
