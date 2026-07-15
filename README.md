@@ -9,6 +9,7 @@
 | [0204-count-primes](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0204-count-primes/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible/) | Hard |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Array
@@ -134,6 +135,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0204-count-primes/) | Medium |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
