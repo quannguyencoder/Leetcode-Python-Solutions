@@ -12,6 +12,7 @@
 | [3658-gcd-of-odd-and-even-sums](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -27,10 +28,12 @@
 | [1331-rank-transform-of-an-array](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/2426-number-of-pairs-satisfying-inequality/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -139,6 +142,7 @@
 | ------- | ------- |
 | [0204-count-primes](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0204-count-primes/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -152,8 +156,13 @@
 | ------- | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 <!---LeetCode Topics End-->
