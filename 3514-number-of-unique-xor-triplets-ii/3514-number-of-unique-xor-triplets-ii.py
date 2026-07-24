@@ -7,5 +7,5 @@ class Solution:
             for i in uniqeue_num:
                 for j in cur:
                     res.add(i ^ j)
-            cur = list(res)
+            cur = res
         return len(res)
