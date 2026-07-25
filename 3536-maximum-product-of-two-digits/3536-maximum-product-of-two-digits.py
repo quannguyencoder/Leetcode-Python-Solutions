@@ -1,4 +1,7 @@
 class Solution:
     def maxProduct(self, n: int) -> int:
-        nums = sorted(list(map(int, str(n))), reverse=True)
-        return nums[0] * nums[1]
+        digit = list(map(int, list(str(n))))
+        num1 = max(digit)
+        del digit[digit.index(num1)]
+        num2 = max(digit)
+        return num1 * num2
