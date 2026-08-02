@@ -1,3 +1,3 @@
 class Solution:
-    def stoneGame(self, piles: List[int]) -> bool:
+    def stoneGame(self, piles):
         return True
