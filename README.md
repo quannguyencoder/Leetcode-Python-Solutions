@@ -11,6 +11,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0877-stone-game/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1199-minimum-time-to-build-blocks](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1199-minimum-time-to-build-blocks/) | Hard |
 | [1248-count-number-of-nice-subarrays](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -39,6 +40,7 @@
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [0877-stone-game](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0877-stone-game/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1199-minimum-time-to-build-blocks](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1199-minimum-time-to-build-blocks/) | Hard |
 | [1248-count-number-of-nice-subarrays](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1260-shift-2d-grid](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -114,6 +116,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [0973-k-closest-points-to-origin](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1199-minimum-time-to-build-blocks](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1199-minimum-time-to-build-blocks/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Monotonic Queue
 | Problem Name | Difficulty |
@@ -231,6 +234,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1199-minimum-time-to-build-blocks](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1199-minimum-time-to-build-blocks/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Bit Manipulation
