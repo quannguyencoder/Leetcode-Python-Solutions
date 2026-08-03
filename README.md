@@ -10,6 +10,7 @@
 | [0486-predict-the-winner](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0877-stone-game/) | Medium |
+| [0887-super-egg-drop](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0887-super-egg-drop/) | Hard |
 | [0973-k-closest-points-to-origin](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1199-minimum-time-to-build-blocks](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1199-minimum-time-to-build-blocks/) | Hard |
 | [1248-count-number-of-nice-subarrays](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
@@ -70,6 +71,7 @@
 | [0486-predict-the-winner](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0600-non-negative-integers-without-consecutive-ones/) | Hard |
 | [0877-stone-game](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0877-stone-game/) | Medium |
+| [0887-super-egg-drop](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0887-super-egg-drop/) | Hard |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1406-stone-game-iii](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible/) | Hard |
@@ -145,6 +147,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
+| [0887-super-egg-drop](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0887-super-egg-drop/) | Hard |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1802-maximum-value-at-a-given-index-in-a-bounded-array/) | Medium |
