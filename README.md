@@ -45,6 +45,7 @@
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [0877-stone-game](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0877-stone-game/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [0994-rotting-oranges](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1199-minimum-time-to-build-blocks](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1199-minimum-time-to-build-blocks/) | Hard |
 | [1231-divide-chocolate](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1231-divide-chocolate/) | Hard |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
@@ -242,6 +243,7 @@
 | ------- | ------- |
 | [0212-word-search-ii](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0212-word-search-ii/) | Hard |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0994-rotting-oranges](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1260-shift-2d-grid](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
@@ -307,6 +309,7 @@
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0994-rotting-oranges](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 ## Longest Increasing Subsequence
