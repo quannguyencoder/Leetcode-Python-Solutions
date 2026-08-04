@@ -54,6 +54,7 @@
 | [1406-stone-game-iii](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/2426-number-of-pairs-satisfying-inequality/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
@@ -243,6 +244,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [1260-shift-2d-grid](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -306,6 +308,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1631-path-with-minimum-effort](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 ## Longest Increasing Subsequence
 | Problem Name | Difficulty |
 | ------- | ------- |
