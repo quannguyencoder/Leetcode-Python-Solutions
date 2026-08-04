@@ -45,6 +45,7 @@
 | [0877-stone-game](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0877-stone-game/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1199-minimum-time-to-build-blocks](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1199-minimum-time-to-build-blocks/) | Hard |
+| [1231-divide-chocolate](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1231-divide-chocolate/) | Hard |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1248-count-number-of-nice-subarrays](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1260-shift-2d-grid](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1260-shift-2d-grid/) | Easy |
@@ -149,6 +150,7 @@
 | [0410-split-array-largest-sum](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [0887-super-egg-drop](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0887-super-egg-drop/) | Hard |
+| [1231-divide-chocolate](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1231-divide-chocolate/) | Hard |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1802-maximum-value-at-a-given-index-in-a-bounded-array/) | Medium |
