@@ -236,6 +236,7 @@
 | [0547-number-of-provinces](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0841-keys-and-rooms](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0841-keys-and-rooms/) | Medium |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
+| [3310-remove-methods-from-project](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -328,6 +329,7 @@
 | [0841-keys-and-rooms](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0841-keys-and-rooms/) | Medium |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [3310-remove-methods-from-project](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -338,6 +340,7 @@
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
+| [3310-remove-methods-from-project](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Longest Increasing Subsequence
 | Problem Name | Difficulty |
 | ------- | ------- |
