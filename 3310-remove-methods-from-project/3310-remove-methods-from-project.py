@@ -4,6 +4,7 @@ class Solution:
         grid = [[] for _ in range(n)]
         for u, v in invocations:
             grid[u].append(v)
+        @cache
         def dfs(cur):
             suspicious.add(cur)
             for f1 in grid[cur]:
