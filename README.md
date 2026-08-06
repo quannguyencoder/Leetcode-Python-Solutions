@@ -36,6 +36,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0042-trapping-rain-water](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0056-merge-intervals](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0056-merge-intervals/) | Medium |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0204-count-primes](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0204-count-primes/) | Medium |
 | [0212-word-search-ii](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0212-word-search-ii/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -112,6 +113,7 @@
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0307-range-sum-query-mutable](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
@@ -202,6 +204,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -406,4 +409,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 <!---LeetCode Topics End-->
