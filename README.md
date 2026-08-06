@@ -9,6 +9,7 @@
 | [0204-count-primes](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0204-count-primes/) | Medium |
 | [0486-predict-the-winner](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0633-sum-of-square-numbers](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0877-stone-game](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0877-stone-game/) | Medium |
 | [0887-super-egg-drop](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0887-super-egg-drop/) | Hard |
 | [0973-k-closest-points-to-origin](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
@@ -80,6 +81,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0633-sum-of-square-numbers](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -175,6 +177,7 @@
 | [0354-russian-doll-envelopes](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0354-russian-doll-envelopes/) | Hard |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0633-sum-of-square-numbers](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0704-binary-search](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0704-binary-search/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
