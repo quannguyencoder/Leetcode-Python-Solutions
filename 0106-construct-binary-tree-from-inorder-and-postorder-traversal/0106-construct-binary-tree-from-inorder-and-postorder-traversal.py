@@ -27,16 +27,3 @@ class Solution:
             
         head = build_tree(inorder, postorder)
         return head
-        
-"""
-class Solution:
-    def buildTree(self, inorder: List[int], postorder: List[int]) -> Optional[TreeNode]:
-        if not inorder:
-            return None
-        val = postorder[-1]
-        mid = inorder.index(val)
-        tree = TreeNode(val)
-        tree.left = self.buildTree(inorder[:-1], postorder[:-1])
-        tree.right = self.buildTree(inorder[])
-            
-"""
