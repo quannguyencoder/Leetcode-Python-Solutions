@@ -30,6 +30,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0042-trapping-rain-water](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0056-merge-intervals](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0204-count-primes](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0204-count-primes/) | Medium |
@@ -168,6 +169,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0354-russian-doll-envelopes](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0354-russian-doll-envelopes/) | Hard |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
