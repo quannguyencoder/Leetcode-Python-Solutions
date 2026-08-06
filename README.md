@@ -12,6 +12,7 @@
 | [0633-sum-of-square-numbers](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0877-stone-game](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0877-stone-game/) | Medium |
 | [0887-super-egg-drop](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0887-super-egg-drop/) | Hard |
+| [0932-beautiful-array](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0932-beautiful-array/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1199-minimum-time-to-build-blocks](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1199-minimum-time-to-build-blocks/) | Hard |
 | [1248-count-number-of-nice-subarrays](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
@@ -54,6 +55,7 @@
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [0877-stone-game](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0877-stone-game/) | Medium |
 | [0912-sort-an-array](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0912-sort-an-array/) | Medium |
+| [0932-beautiful-array](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0932-beautiful-array/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0994-rotting-oranges](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1199-minimum-time-to-build-blocks](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1199-minimum-time-to-build-blocks/) | Hard |
@@ -114,6 +116,7 @@
 | [0307-range-sum-query-mutable](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0912-sort-an-array](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0912-sort-an-array/) | Medium |
+| [0932-beautiful-array](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0932-beautiful-array/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/2426-number-of-pairs-satisfying-inequality/) | Hard |
 ## Design
