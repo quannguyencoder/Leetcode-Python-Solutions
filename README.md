@@ -160,6 +160,7 @@
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0424-longest-repeating-character-replacement](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [1248-count-number-of-nice-subarrays](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -220,6 +221,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0141-linked-list-cycle](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0424-longest-repeating-character-replacement](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -247,6 +249,7 @@
 | [0072-edit-distance](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0072-edit-distance/) | Medium |
 | [0212-word-search-ii](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0212-word-search-ii/) | Hard |
 | [0399-evaluate-division](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0399-evaluate-division/) | Medium |
+| [0424-longest-repeating-character-replacement](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0481-magical-string](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0481-magical-string/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
