@@ -34,6 +34,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0016-3sum-closest](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0016-3sum-closest/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0042-trapping-rain-water](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0056-merge-intervals](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0056-merge-intervals/) | Medium |
@@ -85,6 +86,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0016-3sum-closest](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0016-3sum-closest/) | Medium |
 | [0042-trapping-rain-water](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0141-linked-list-cycle](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0633-sum-of-square-numbers/) | Medium |
@@ -282,6 +284,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0016-3sum-closest](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0016-3sum-closest/) | Medium |
 | [0056-merge-intervals](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0147-insertion-sort-list](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0147-insertion-sort-list/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
