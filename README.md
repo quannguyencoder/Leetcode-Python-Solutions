@@ -162,6 +162,7 @@
 | [0239-sliding-window-maximum](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [1248-count-number-of-nice-subarrays](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -221,6 +222,7 @@
 | [0219-contains-duplicate-ii](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
@@ -247,6 +249,7 @@
 | [0399-evaluate-division](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0399-evaluate-division/) | Medium |
 | [0481-magical-string](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0481-magical-string/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
