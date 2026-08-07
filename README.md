@@ -89,6 +89,7 @@
 | [0016-3sum-closest](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0016-3sum-closest/) | Medium |
 | [0042-trapping-rain-water](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0141-linked-list-cycle](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
+| [0481-magical-string](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0481-magical-string/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Dynamic Programming
@@ -241,6 +242,7 @@
 | [0072-edit-distance](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0072-edit-distance/) | Medium |
 | [0212-word-search-ii](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0212-word-search-ii/) | Hard |
 | [0399-evaluate-division](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0399-evaluate-division/) | Medium |
+| [0481-magical-string](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0481-magical-string/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
