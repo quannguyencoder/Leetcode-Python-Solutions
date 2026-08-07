@@ -248,6 +248,7 @@
 | ------- | ------- |
 | [0072-edit-distance](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0072-edit-distance/) | Medium |
 | [0212-word-search-ii](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0212-word-search-ii/) | Hard |
+| [0214-shortest-palindrome](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0214-shortest-palindrome/) | Hard |
 | [0399-evaluate-division](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0399-evaluate-division/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0481-magical-string](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0481-magical-string/) | Medium |
@@ -454,4 +455,28 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0214-shortest-palindrome](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0214-shortest-palindrome/) | Hard |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0214-shortest-palindrome](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0214-shortest-palindrome/) | Hard |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0214-shortest-palindrome](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0214-shortest-palindrome/) | Hard |
+## Manacher
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0214-shortest-palindrome](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0214-shortest-palindrome/) | Hard |
+## Z Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0214-shortest-palindrome](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0214-shortest-palindrome/) | Hard |
+## Knuth–Morris–Pratt Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0214-shortest-palindrome](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0214-shortest-palindrome/) | Hard |
 <!---LeetCode Topics End-->
