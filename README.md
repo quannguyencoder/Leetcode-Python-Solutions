@@ -85,6 +85,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/2426-number-of-pairs-satisfying-inequality/) | Hard |
 | [2542-maximum-subsequence-score](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/2542-maximum-subsequence-score/) | Medium |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
@@ -239,6 +240,7 @@
 | [1257-smallest-common-region](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1257-smallest-common-region/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
@@ -327,6 +329,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1887-reduction-operations-to-make-the-array-elements-equal/) | Medium |
 | [2542-maximum-subsequence-score](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/2542-maximum-subsequence-score/) | Medium |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
