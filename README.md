@@ -83,6 +83,7 @@
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1887-reduction-operations-to-make-the-array-elements-equal/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/2426-number-of-pairs-satisfying-inequality/) | Hard |
 | [2542-maximum-subsequence-score](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/2542-maximum-subsequence-score/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -160,6 +161,7 @@
 | [0315-count-of-smaller-numbers-after-self](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0493-reverse-pairs](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0493-reverse-pairs/) | Hard |
 | [0699-falling-squares](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0699-falling-squares/) | Hard |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/2426-number-of-pairs-satisfying-inequality/) | Hard |
 ## Queue
 | Problem Name | Difficulty |
@@ -261,6 +263,7 @@
 | [0315-count-of-smaller-numbers-after-self](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0493-reverse-pairs](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0493-reverse-pairs/) | Hard |
 | [0699-falling-squares](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0699-falling-squares/) | Hard |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/2426-number-of-pairs-satisfying-inequality/) | Hard |
 ## String
 | Problem Name | Difficulty |
@@ -274,6 +277,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1257-smallest-common-region](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1257-smallest-common-region/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
