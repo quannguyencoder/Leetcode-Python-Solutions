@@ -24,6 +24,7 @@
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3345-smallest-divisible-digit-product-i](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
@@ -90,6 +91,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
@@ -206,6 +208,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible/) | Hard |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -226,6 +229,7 @@
 | [1631-path-with-minimum-effort](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1802-maximum-value-at-a-given-index-in-a-bounded-array/) | Medium |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/2426-number-of-pairs-satisfying-inequality/) | Hard |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -308,6 +312,7 @@
 | ------- | ------- |
 | [0204-count-primes](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0204-count-primes/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -398,6 +403,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1386-cinema-seat-allocation](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
