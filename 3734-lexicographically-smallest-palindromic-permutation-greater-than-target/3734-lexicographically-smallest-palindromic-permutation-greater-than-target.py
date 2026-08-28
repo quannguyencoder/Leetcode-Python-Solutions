@@ -1,50 +1,40 @@
 class Solution:
     def lexPalindromicPermutation(self, s: str, target: str) -> str:
         n = len(s)
-        if n == 1:
-            return s if s > target else ""
-        cnt = [0] * 26
-        for c in s:
-            cnt[ord(c) - ord("a")] += 1
-        odd_char = ""
-        for i in range(26):
-            if cnt[i] % 2 == 1:
-                if odd_char != "":
-                    return ""
-                odd_char = chr(ord("a") + i)
-            cnt[i] //= 2
+        freg = Counter(s)
+        odd_chars = [c for c in freg if freg[c] % 2 == 1]
+        if len(odd_chars) > 1:
+            return ''
+        mid_char = odd_chars[0] if odd_chars else ''
+        for c in freg:
+            freg[c] //= 2
+        half_n = n // 2
+        choosen = []
+        sorted_char = [c for c in sorted(freg) if freg[c] > 0]
 
-        prefix = []
-
-        def check(c):
-            left = prefix.copy()
-            left.append(c)
-            for i in range(25, -1, -1):
-                left.extend([chr(ord("a") + i)] * cnt[i])
-            palindrome = left + [odd_char] + left[::-1]
-            return "".join(palindrome) > target
-
-        for i in range(n // 2):
-            found = False
-            for j in range(26):
-                if cnt[j] == 0:
+        def dp(idx, tight):
+            j = n - 1 - idx
+            if idx == half_n:
+                cur = ''.join(choosen) + mid_char + ''.join(choosen[::-1])
+                if not tight or cur > target:
+                    return cur
+                return ''
+            for c in sorted_char:
+                if freg[c] == 0:
                     continue
-
-                cnt[j] -= 1
-                if check(chr(ord("a") + j)):
-                    prefix.append(chr(ord("a") + j))
-                    found = True
+                if tight:
+                    if c < target[idx]:
+                        continue
+                freg[c] -= 1
+                choosen.append(c)
+                new_tight = tight and (c == target[idx])
+                res = dp(idx + 1, new_tight)
+                choosen.pop()
+                freg[c] += 1
+                if res:
+                    return res
+                if tight and c > target[idx]:
                     break
-                else:
-                    cnt[j] += 1
-            if not found:
-                return ""
+            return ''
 
-            if prefix[i] > target[i]:
-                left = prefix[:]
-                for j in range(26):
-                    left.extend([chr(ord("a") + j)] * cnt[j])
-                palindrome = left + [odd_char] + left[::-1]
-                return "".join(palindrome)
-        ans = prefix + [odd_char] + prefix[::-1]
-        return "".join(ans)
+        return dp(0, True)
