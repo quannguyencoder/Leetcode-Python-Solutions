@@ -404,6 +404,7 @@
 | [0141-linked-list-cycle](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0147-insertion-sort-list](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0147-insertion-sort-list/) | Medium |
 | [0622-design-circular-queue](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0622-design-circular-queue/) | Medium |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
