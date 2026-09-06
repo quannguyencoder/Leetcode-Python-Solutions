@@ -127,6 +127,7 @@
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0072-edit-distance](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0072-edit-distance/) | Medium |
+| [0115-distinct-subsequences](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0354-russian-doll-envelopes](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0354-russian-doll-envelopes/) | Hard |
 | [0410-split-array-largest-sum](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0486-predict-the-winner](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0486-predict-the-winner/) | Medium |
@@ -301,6 +302,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0072-edit-distance](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0072-edit-distance/) | Medium |
+| [0115-distinct-subsequences](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0212-word-search-ii](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0212-word-search-ii/) | Hard |
 | [0214-shortest-palindrome](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0214-shortest-palindrome/) | Hard |
 | [0399-evaluate-division](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0399-evaluate-division/) | Medium |
