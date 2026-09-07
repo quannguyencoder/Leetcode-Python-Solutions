@@ -134,6 +134,7 @@
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0600-non-negative-integers-without-consecutive-ones/) | Hard |
 | [0877-stone-game](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0877-stone-game/) | Medium |
 | [0887-super-egg-drop](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0887-super-egg-drop/) | Hard |
+| [0940-distinct-subsequences-ii](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1140-stone-game-ii](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1406-stone-game-iii](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1406-stone-game-iii/) | Hard |
@@ -308,6 +309,7 @@
 | [0399-evaluate-division](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0399-evaluate-division/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0481-magical-string](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0481-magical-string/) | Medium |
+| [0940-distinct-subsequences-ii](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1257-smallest-common-region](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1257-smallest-common-region/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
