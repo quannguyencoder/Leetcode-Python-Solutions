@@ -38,6 +38,7 @@
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3870-count-commas-in-range](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3870-count-commas-in-range/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Array
 | Problem Name | Difficulty |
