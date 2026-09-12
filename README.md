@@ -101,6 +101,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
@@ -145,6 +146,7 @@
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible/) | Hard |
 | [1872-stone-game-viii](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1872-stone-game-viii/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -250,6 +252,7 @@
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1802-maximum-value-at-a-given-index-in-a-bounded-array/) | Medium |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/2426-number-of-pairs-satisfying-inequality/) | Hard |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -387,6 +390,7 @@
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3731-find-missing-elements](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3731-find-missing-elements/) | Easy |
