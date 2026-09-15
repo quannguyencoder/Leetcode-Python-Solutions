@@ -125,6 +125,7 @@
 | [0141-linked-list-cycle](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0481-magical-string](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0481-magical-string/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0633-sum-of-square-numbers/) | Medium |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -147,6 +148,7 @@
 | [1510-stone-game-iv](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1510-stone-game-iv/) | Hard |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible/) | Hard |
 | [1872-stone-game-viii](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1872-stone-game-viii/) | Hard |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Stack
@@ -324,6 +326,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1927-sum-game](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1927-sum-game/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -441,6 +444,7 @@
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1802-maximum-value-at-a-given-index-in-a-bounded-array/) | Medium |
 | [1927-sum-game](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1927-sum-game/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2542-maximum-subsequence-score](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/2542-maximum-subsequence-score/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
