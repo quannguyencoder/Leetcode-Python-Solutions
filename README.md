@@ -21,6 +21,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1406-stone-game-iii](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1510-stone-game-iv/) | Hard |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1802-maximum-value-at-a-given-index-in-a-bounded-array/) | Medium |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible/) | Hard |
 | [1872-stone-game-viii](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1872-stone-game-viii/) | Hard |
@@ -146,6 +147,7 @@
 | [1235-maximum-profit-in-job-scheduling](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1406-stone-game-iii](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1510-stone-game-iv/) | Hard |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible/) | Hard |
 | [1872-stone-game-viii](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1872-stone-game-viii/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
@@ -233,6 +235,7 @@
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible/) | Hard |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
@@ -266,6 +269,7 @@
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [1140-stone-game-ii](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1664-ways-to-make-a-fair-array](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1664-ways-to-make-a-fair-array/) | Medium |
 | [1872-stone-game-viii](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1872-stone-game-viii/) | Hard |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
