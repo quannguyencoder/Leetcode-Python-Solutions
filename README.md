@@ -288,6 +288,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -328,6 +329,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1257-smallest-common-region](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1257-smallest-common-region/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1927-sum-game](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1927-sum-game/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
@@ -394,6 +396,7 @@
 | [1235-maximum-profit-in-job-scheduling](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1887-reduction-operations-to-make-the-array-elements-equal/) | Medium |
 | [2542-maximum-subsequence-score](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/2542-maximum-subsequence-score/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
@@ -445,6 +448,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1199-minimum-time-to-build-blocks](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1199-minimum-time-to-build-blocks/) | Hard |
 | [1386-cinema-seat-allocation](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1802-maximum-value-at-a-given-index-in-a-bounded-array/) | Medium |
 | [1927-sum-game](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1927-sum-game/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
