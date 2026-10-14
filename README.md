@@ -41,6 +41,7 @@
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -486,6 +487,7 @@
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
