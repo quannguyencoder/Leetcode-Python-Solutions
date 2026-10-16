@@ -107,6 +107,7 @@
 | [2361-minimum-costs-using-the-train-line](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/2361-minimum-costs-using-the-train-line/) | Hard |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/2426-number-of-pairs-satisfying-inequality/) | Hard |
 | [2542-maximum-subsequence-score](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/2542-maximum-subsequence-score/) | Medium |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -203,6 +204,7 @@
 | [0315-count-of-smaller-numbers-after-self](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0493-reverse-pairs](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0493-reverse-pairs/) | Hard |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/2426-number-of-pairs-satisfying-inequality/) | Hard |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -212,6 +214,7 @@
 | [0699-falling-squares](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0699-falling-squares/) | Hard |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/2426-number-of-pairs-satisfying-inequality/) | Hard |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3525-find-x-value-of-array-ii](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 ## Queue
 | Problem Name | Difficulty |
@@ -311,6 +314,7 @@
 | [1386-cinema-seat-allocation](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
