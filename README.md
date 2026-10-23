@@ -126,6 +126,7 @@
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3731-find-missing-elements/) | Easy |
@@ -511,6 +512,7 @@
 | [3513-number-of-unique-xor-triplets-i](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
