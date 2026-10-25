@@ -90,6 +90,7 @@
 | [1231-divide-chocolate](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1231-divide-chocolate/) | Hard |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1248-count-number-of-nice-subarrays](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1257-smallest-common-region](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1257-smallest-common-region/) | Medium |
 | [1260-shift-2d-grid](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -407,6 +408,7 @@
 | ------- | ------- |
 | [0399-evaluate-division](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0399-evaluate-division/) | Medium |
 | [0547-number-of-provinces](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0547-number-of-provinces/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
@@ -456,6 +458,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0835-image-overlap](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0835-image-overlap/) | Medium |
 | [0994-rotting-oranges](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0994-rotting-oranges/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1260-shift-2d-grid](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
@@ -552,6 +555,7 @@
 | [0399-evaluate-division](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0399-evaluate-division/) | Medium |
 | [0547-number-of-provinces](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0841-keys-and-rooms](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0841-keys-and-rooms/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1257-smallest-common-region](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1257-smallest-common-region/) | Medium |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
@@ -565,6 +569,7 @@
 | [0841-keys-and-rooms](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0841-keys-and-rooms/) | Medium |
 | [0994-rotting-oranges](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1254-number-of-closed-islands](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1257-smallest-common-region](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1257-smallest-common-region/) | Medium |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
