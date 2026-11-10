@@ -103,6 +103,7 @@
 | [1406-stone-game-iii](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1664-ways-to-make-a-fair-array](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1664-ways-to-make-a-fair-array/) | Medium |
@@ -264,6 +265,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1199-minimum-time-to-build-blocks](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1199-minimum-time-to-build-blocks/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2542-maximum-subsequence-score](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/2542-maximum-subsequence-score/) | Medium |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
@@ -361,6 +363,7 @@
 | [0315-count-of-smaller-numbers-after-self](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0493-reverse-pairs](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0493-reverse-pairs/) | Hard |
 | [0699-falling-squares](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0699-falling-squares/) | Hard |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/2426-number-of-pairs-satisfying-inequality/) | Hard |
 ## String
@@ -484,6 +487,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1260-shift-2d-grid](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1260-shift-2d-grid/) | Easy |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
