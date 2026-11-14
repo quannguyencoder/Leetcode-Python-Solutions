@@ -124,6 +124,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
+| [3364-minimum-positive-sum-subarray](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -254,6 +255,7 @@
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3364-minimum-positive-sum-subarray](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -318,6 +320,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1664-ways-to-make-a-fair-array](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1664-ways-to-make-a-fair-array/) | Medium |
 | [1872-stone-game-viii](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1872-stone-game-viii/) | Hard |
+| [3364-minimum-positive-sum-subarray](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3904-smallest-stable-index-ii/) | Medium |
