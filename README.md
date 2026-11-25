@@ -147,6 +147,7 @@
 | [3886-sum-of-sortable-integers](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3904-smallest-stable-index-ii/) | Medium |
+| [3934-smallest-unique-subarray](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -308,6 +309,7 @@
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3934-smallest-unique-subarray](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -354,6 +356,7 @@
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3731-find-missing-elements/) | Easy |
+| [3934-smallest-unique-subarray](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -664,6 +667,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0214-shortest-palindrome](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0214-shortest-palindrome/) | Hard |
+| [3934-smallest-unique-subarray](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -672,6 +676,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0214-shortest-palindrome](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/0214-shortest-palindrome/) | Hard |
+| [3934-smallest-unique-subarray](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -733,4 +738,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Suffix Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/quannguyencoder/Leetcode-Python-Solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
 <!---LeetCode Topics End-->
